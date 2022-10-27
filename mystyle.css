@@ -1,0 +1,53 @@
+body{
+  font-family: Arial, sans-serif;
+}
+
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header img{
+    width: 960px;
+}
+
+article img{
+    width: 400px;
+}
+
+nav a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+}
+
+nav li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px
+}
+
+nav ul{
+  padding: 0;
+  text-align:center;
+}
+
+ #mainbox{
+   background-color: black;
+ }
+
+a:link {
+    color: #DCDCDC;
+ }
+
+a:visited {
+    color: #DCDCDC;
+ }
+
+a:hover {
+    color: #FFFFFF;
+ }
+
+a:active{
+    color: #FFFFFF;
+}
