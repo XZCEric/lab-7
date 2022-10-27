@@ -1,1 +1,1 @@
-# lab-7
+# space-exploration
